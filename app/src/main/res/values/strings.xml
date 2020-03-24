@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StyleExample</string>
+    <!--MyStrings-->
+    <string name="tv1_text">basic</string>
+    <string name="tv2_text">Appearance</string>
+    <string name="tv3_text">Background</string>
+</resources>
